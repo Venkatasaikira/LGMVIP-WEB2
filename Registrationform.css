@@ -1,0 +1,29 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #e0e0e0; 
+}
+
+.container {
+  background-color: #ffffff;
+}
+
+h1 {
+  color: #FF5733;
+}
+
+label {
+  color: rgb(0, 128, 255);
+}
+
+input {
+  border: 2px solid #00FF00;
+}
+
+button {
+  background-color: #800080;
+  color: #FFFF00;
+}
+
+button:hover {
+  background-color: #FFA500; 
+}
